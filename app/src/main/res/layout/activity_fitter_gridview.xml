@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ngai.org.easyfitter.FitterGridviewActivity">
+
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridView2"
+        android:columnWidth="3px"
+        android:numColumns="3" />
+
+
+    <GridView
+        android:layout_width="640px"
+        android:layout_height="200px"
+        android:id="@+id/gridView"
+        android:columnWidth="3px"
+        android:numColumns="3" />
+</RelativeLayout>
