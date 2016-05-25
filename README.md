@@ -14,7 +14,7 @@
     或
     // 直接引用
     dependencies {
-     compile 'com.zhy:autolayout:1.4.3'
+     compile '????' // 未托管
     }
 
     Eclipse ? //直接Copy代码咯~
